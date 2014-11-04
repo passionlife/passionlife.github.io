@@ -4,9 +4,9 @@ email: passion.life.com@gmail.com
 description: "We will make our life to be passion!"
 baseurl: ""
 url: "http://passionlife.github.io"
-twitter_username: SBootstrap
+twitter_username: passionlife
 github_username:  passionlife
-facebook_username:  IronSummitMedia
+facebook_username:  passionlife
 
 # Build settings
 markdown: kramdown

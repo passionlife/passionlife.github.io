@@ -1,15 +1,15 @@
 ---
 layout: page
 title: "Contact"
-description: "Have questions? I have answers (maybe)."
-header-img: "/img/contact-bg.jpg"
+description: "有任何疑问，我们将尽全力为您解答."
+header-img: "img/contact-bg.jpg"
 ---
 
-<p>Want to get in touch with me? Fill out the form below to send me a message and I will try to get back to you within 24 hours!</p>
+<p>您可以提交您的疑问并附上联系方式，我们将尽量在24小时内答复您，感谢您的问题。</p>
 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-<form name="sentMessage" id="contactForm" novalidate>
+<form name="sentMessage" id="contactForm" novalidate style="display: none">
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
@@ -42,7 +42,25 @@ header-img: "/img/contact-bg.jpg"
     <div id="success"></div>
     <div class="row">
         <div class="form-group col-xs-12">
-            <button type="submit" class="btn btn-default">Send</button>
+            <button type="submit" class="btn btn-default">提交</button>
         </div>
     </div>
 </form>
+
+
+<!-- 多说评论框 start -->
+<div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="请替换成文章的标题" data-url="请替换成文章的网址"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    var duoshuoQuery = {short_name:"passionlifecom"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0]
+                || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+</script>
+<!-- 多说公共JS代码 end -->
