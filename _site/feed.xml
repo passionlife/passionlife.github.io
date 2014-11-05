@@ -5,8 +5,8 @@
     <description>We will make our life to be passion!</description>
     <link>http://passionlife.github.io/</link>
     <atom:link href="http://passionlife.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 04 Nov 2014 23:04:06 +0800</pubDate>
-    <lastBuildDate>Tue, 04 Nov 2014 23:04:06 +0800</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2014 23:27:29 +0800</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2014 23:27:29 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -142,133 +142,63 @@
       </item>
     
       <item>
-        <title>Failure is not an option</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <title>笑闻天下的构想</title>
+        <description>&lt;p&gt;这几天一直在和sage讨论我们先做个什么app，创业团队总不能靠嘴皮子，然后我们就五花八门的扯了。起始的app当然不能太大，以试水的态度，一下子铺太大，很难掌握，收不回来，更怕的是白做，毕竟对市场的走向还是模糊。讨论到后来，干脆就是做简单又好用的，“看笑话”。这个确实简单，每天发发笑话，人家只要点开就能看。好，那开始做吧。&lt;/p&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;先分工，我做后台接口和管理系统，他做前端部分。我之前是有后台的经验的，所以还是能简单上手，sage是c系程序员，学起object-c还是比较快的，分工明确合理，那着手就很快，实施可以以后再谈，先确定需求。&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;app的基本结构&lt;/h2&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;既然是做笑话应用，那笑话是跑不掉的，展示也很简单，一个标题，一个文字内容，用户可以点赞，可以收藏，可以分享。然后想了一下，这就没了？那这样的app也太寒碜了点，那就再加点吧。&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;加什么呢？既然是笑话有了，那干脆加个搞笑图吧，同样的逗人开心，哈哈。结构一样，标题、文字、图片。其他用户该有的功能也是不少的。&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;p&gt;后来又想了，短篇的都有了，要不要加点长篇的？ 加啊，干嘛不加，于是我们又想到了加博客文章、新闻一类的。&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;考虑到菜单排版长度，先定了这4个，接下来就是名字了，名字还是很重要的。讨论了半天，还是sage有高见，叫“笑闻天下”吧，笑话和新闻分别对应长短内容，传播到天下也是我们的梦想。真是贴切。&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;那我们就开始开始吧！&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Jul 2014 20:00:00 +0800</pubDate>
-        <link>http://passionlife.github.io/2014/07/08/failure-is-not-an-option/</link>
-        <guid isPermaLink="true">http://passionlife.github.io/2014/07/08/failure-is-not-an-option/</guid>
+        <link>http://passionlife.github.io/2014/07/08/%E7%AC%91%E9%97%BB%E5%A4%A9%E4%B8%8B/</link>
+        <guid isPermaLink="true">http://passionlife.github.io/2014/07/08/%E7%AC%91%E9%97%BB%E5%A4%A9%E4%B8%8B/</guid>
         
         
       </item>
     
       <item>
-        <title>The dreams of yesterday are the hopes of today and the reality of tomorrow.</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+        <title>初心者新登场</title>
+        <description>&lt;p&gt;创业，如今是算铺天盖地了，大街小巷，茶余饭后，关于种种创业的话题层出不穷，无论是真心畅谈创业之坚信，还是仅以此为话题当作聊资，似乎都让人感觉，创业，已经泛滥成灾了。可以想见，创业这条路上多少人在你追我敢，挤的头破血流，又有多少人真的能笑到最后呢？&lt;/p&gt;
 
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+&lt;p&gt;可是，我还是想说，我们来了，也将坚定不移的踏上这条创业之路，纵使困难重重，但总有希望之光。&lt;/p&gt;
 
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;初心者首登场&lt;/h2&gt;
 
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+&lt;p&gt;我们是初心者，没有经验，没有背景，正是纯粹的初心者，在那些创业老大哥们面前就是菜鸟一只。&lt;/p&gt;
 
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+&lt;p&gt;我们的团队刚开始组建，人很少并且不完整。我们也从事工作没几年，工作经验积累的也不算充足，人脉也非常少，但既然有者创业的动力，这些都会克服，因为我们相信我们的路是对的，而且现在还是有很大的空间--移动互联网！&lt;/p&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+&lt;blockquote&gt;截至2014年1月，我国移动互联网用户总数达8.38亿户，在移动电话用户中的渗透率达67.8%；手机网民规模达5亿，占总网民数的八成多，手机保持第一大上网终端地位。我国移动互联网发展进入全民时代。--摘自《百度百科》&lt;/blockquote&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;p&gt;如此庞大的市场，里面蕴藏了多少机遇？又能创造多少奇迹？在我看来，只要你想做，一切皆有可能。所以我们也开始了。我们关注的方向是，&lt;strong&gt;移动app&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;我们的路&lt;/h2&gt;
 
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+&lt;p&gt;既然有了方向，那就开始组成团队，在踏上荆棘之路前做好准备。团队是以技术为主，目前的团队人员都是程序员，这是我们最大的优势，只要有想法，那我们自己就能做出来！都说程序员都是死脑筋，其实他们有着对市场，对技术充分的理解和认识，平时的工作就是这方面的积累了，只要相互讨论，我们就能拿出一个符合市场、又完全能自己完成的产品。我想，这种优势无疑节省了大量的创业成本，至少可以业余来开发。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+    &lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-bg-01-chapter-01.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+&lt;p&gt;虽然我们工作经验尚缺，但是我们年轻，我们最擅长的就是学习和积累，而我们的创业过程无疑是最好的挑战和学习机会。我们学习如何以一个用户的角度来看一个app的使用便捷与否，学习怎样的界面色彩搭配最舒适，学习怎样搭建服务器创建接口，学习怎样在最适合的位置放上最简单的菜单......。经过了几个月的突飞猛进，我们已经感觉到了我们的潜力是巨大的，我们充满希望。&lt;/p&gt;
 
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+&lt;p&gt;同时我们也意识到了一个问题，一个人的精力是有限的，虽然我们相信能搞定很多问题，但是效率太慢，学习成本过高，团队的密切分工迫在眉睫，我们需要更多的队员，并且要对未来有坚定的信心。&lt;/p&gt;
 
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jul 2014 20:00:00 +0800</pubDate>
-        <link>http://passionlife.github.io/2014/07/01/dreams/</link>
-        <guid isPermaLink="true">http://passionlife.github.io/2014/07/01/dreams/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dinosaurs are extinct today</title>
-        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img class=&quot;img-responsive&quot; src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;我们已经慢慢上路了，希望能有更多志同道合的朋友加入我们，前面的风景一定更好！&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Jun 2014 20:00:00 +0800</pubDate>
-        <link>http://passionlife.github.io/2014/06/10/dinosaurs/</link>
-        <guid isPermaLink="true">http://passionlife.github.io/2014/06/10/dinosaurs/</guid>
+        <link>http://passionlife.github.io/2014/06/10/%E5%88%9D%E5%BF%83%E8%80%85/</link>
+        <guid isPermaLink="true">http://passionlife.github.io/2014/06/10/%E5%88%9D%E5%BF%83%E8%80%85/</guid>
         
         
       </item>
