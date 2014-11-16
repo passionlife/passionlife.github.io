@@ -29,6 +29,10 @@ header-img: "img/post-bg-01.jpg"
     <img class="img-responsive" src="{{ site.baseurl }}/img/post-bg-01-chapter-01.jpg" alt="">
 </a>
 
+<a href="#">
+	<img class="img-responsive" src="{{ site.baseurl }}/img/xiaoweitianxiafabu/jnw_0.jpg" alt="">
+</a>
+
 <p>虽然我们工作经验尚缺，但是我们年轻，我们最擅长的就是学习和积累，而我们的创业过程无疑是最好的挑战和学习机会。我们学习如何以一个用户的角度来看一个app的使用便捷与否，学习怎样的界面色彩搭配最舒适，学习怎样搭建服务器创建接口，学习怎样在最适合的位置放上最简单的菜单......。经过了几个月的突飞猛进，我们已经感觉到了我们的潜力是巨大的，我们充满希望。</p>
 
 <p>同时我们也意识到了一个问题，一个人的精力是有限的，虽然我们相信能搞定很多问题，但是效率太慢，学习成本过高，团队的密切分工迫在眉睫，我们需要更多的队员，并且要对未来有坚定的信心。</p>
