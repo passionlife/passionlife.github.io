@@ -7,6 +7,7 @@ url: "http://passionlife.github.io"
 twitter_username:
 github_username:
 facebook_username:
+excerpt_separator: ""
 
 # Build settings
 markdown: kramdown
