@@ -11,9 +11,11 @@ layout: default
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <hr class="small">
                     <span class="subheading">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</span>
+                    {% if page.header-img-btn %}
                     <div style="padding: 30px;">
                         <a href="https://itunes.apple.com/cn/app/xiao-wen-tian-xia/id942503021?l=en&mt=8" title="iPhone客户端-App Store"><img src="{{ site.baseurl }}/{{ page.header-img-btn }}" style="width: 30%"/></a>
                     </div>
+                    {% endif %}
                 </div>
             </div>
         </div>
